@@ -1,4 +1,4 @@
-[![Screenshoot](screenshot.png)]
+![Screenshoot](screenshot.png)
 # Paradas de autobuses en la ciudad de rosario
 Un ejemplo de Jupyter Notebook, usando pandas, ipywidgets, y folium para mostrar mapas.
 Basado en lo aprendido en el curso Python for Data Science de la Universidad de California - San Diego, en la plataforma edx.org
